@@ -38,8 +38,8 @@ class Solution:
 
 
 test = Solution()
-test.lengthOfLongestSubstring('abbbbc')
-
+ans = test.lengthOfLongestSubstring('abbbbc')
+print(ans)
 
 
 
